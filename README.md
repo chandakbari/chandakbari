@@ -1,8 +1,13 @@
 # Hi, I'm Chand Akbari
 
-Fresher looking for my first role in cloud or DevOps engineering. I'm open to graduate, junior and entry-level positions.
+Fresher looking for my first role in cloud or DevOps engineering. I'm a Computer Science student at the University of West London, graduating in 2027, and I'm based in London. I'm open to graduate, junior and entry-level positions.
 
 I learn by building. My first project puts a full AWS stack behind my own CV website, with the infrastructure written in Terraform and deployments handled by GitHub Actions.
+
+## Education
+
+- BSc (Hons) Computer Science, University of West London, 2024 to 2027. The course is accredited by BCS, The Chartered Institute for IT. Modules include programming, networking, databases, algorithms and software engineering, with cyber security, distributed systems and databases and analytics in year 3.
+- Diploma in Information Technology, Government Polytechnic Rajkot (Gujarat Technological University), 2021 to 2023. Grade: 7.73.
 
 ## Skills
 
@@ -31,11 +36,16 @@ Tech: AWS, Terraform, Python, GitHub Actions, JavaScript
 
 ## What I'm learning now
 
-- Custom domains with Route 53 and ACM certificates
+Alongside my degree I'm teaching myself Linux, Docker and Kubernetes. Longer term I want to work in DevSecOps. Next for the AWS project:
+
+- Custom domain with Route 53 and an ACM certificate
 - Remote Terraform state in S3 with locking
 - Running `terraform plan` automatically on pull requests
-- Monitoring and alerting with CloudWatch alarms
+- CloudWatch alarms for Lambda errors
 
 ## Contact
 
-I'm happy to hear about junior cloud and DevOps roles. The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/chand-akbari).
+I'm happy to hear about junior cloud and DevOps roles in London.
+
+- Email: chandakbariuk@gmail.com
+- LinkedIn: [linkedin.com/in/chand-akbari](https://www.linkedin.com/in/chand-akbari)
